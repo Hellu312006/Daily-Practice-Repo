@@ -40,7 +40,7 @@ graph TD
 ### 📦 1. Foundations & Math
 - [x] Basic Syntax & Operators (e.g., [practical_3.java](file:///c:/Daily%20Practice%20Repo/Day_1/practical_3.java))
 - [x] Variables, Data Types & Formatting (e.g., [practical_2.java](file:///c:/Daily%20Practice%20Repo/Day_1/practical_2.java))
-- [ ] Time and Space Complexity Analysis (Big O)
+- [] Time and Space Complexity Analysis (Big O)
 - [ ] Basic Mathematics & Number Theory (GCD, Prime Numbers)
 
 ### ⛓️ 2. Linear Data Structures
