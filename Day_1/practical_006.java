@@ -2,7 +2,7 @@ package Day_1;
 
 public class practical_006 {
     public static void main(String[] args) {
-        int number = 10;
+        int number = -20;
          
         if(number > 0){
             System.out.println("posotive number");

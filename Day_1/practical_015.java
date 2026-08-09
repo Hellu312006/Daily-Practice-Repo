@@ -9,7 +9,7 @@ public class practical_015 {
             }
 
             System.out.println();
-        }
+        }//  jo jyare akhu motu rectangle ave ne tyare bar bane meto j folder na ajubaju blue hoi ne ema bane jo 
     } 
 }
 
