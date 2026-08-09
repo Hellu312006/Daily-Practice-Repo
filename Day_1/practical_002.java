@@ -1,5 +1,5 @@
 package Day_1; 
-public class  practical_2 {
+public class  practical_002 {
     public static void main(String[] args) {
         String Name = "Hely";
         int age = 21;

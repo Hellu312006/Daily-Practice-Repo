@@ -1,6 +1,6 @@
 package Day_1;
 
-public class practical_18 {
+public class practical_018 {
     public static void main(String[] args) {
         int i = 10;
         while (i >= 1) {

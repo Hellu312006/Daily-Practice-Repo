@@ -1,6 +1,6 @@
 package Day_1;
 
-public class practical_7 {
+public class practical_007 {
    public static void main(String[] args) {
     int a = 50;
     int b = 20;

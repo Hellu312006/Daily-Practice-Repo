@@ -2,7 +2,7 @@ package Day_1;
 
 import java.util.Scanner;
 
-public class practical_4 {
+public class practical_004 {
     public static void main(String[] args) {
       try (Scanner sc = new Scanner(System.in)) {
         System.out.println("enter number a");

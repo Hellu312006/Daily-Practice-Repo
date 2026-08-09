@@ -1,6 +1,6 @@
 package Day_1;
 
-public class practical_10 {
+public class practical_010 {
     public static void main(String[] args) {
         String name = "hely";
         String password = "hely321";
