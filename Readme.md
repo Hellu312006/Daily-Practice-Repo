@@ -38,8 +38,8 @@ graph TD
 ## 🗺️ DSA Learning Roadmap
 
 ### 📦 1. Foundations & Math
-- [x] Basic Syntax & Operators (e.g., [practical_3.java](file:///c:/Daily%20Practice%20Repo/Day_1/practical_3.java))
-- [x] Variables, Data Types & Formatting (e.g., [practical_2.java](file:///c:/Daily%20Practice%20Repo/Day_1/practical_2.java))
+- [x] Basic Syntax & Operators (e.g., [practical_3.java](file:///c:/Daily%20Practice%20Repo/Day_01/practical_3.java))
+- [x] Variables, Data Types & Formatting (e.g., [practical_2.java](file:///c:/Daily%20Practice%20Repo/Day_01/practical_2.java))
 - [] Time and Space Complexity Analysis (Big O)
 - [ ] Basic Mathematics & Number Theory (GCD, Prime Numbers)
 
@@ -49,7 +49,7 @@ graph TD
   - [ ] Two-pointer & Sliding Window technique
   - [ ] Prefix Sum & Kadane's Algorithm
 - [ ] **Strings**
-  - [ ] String Manipulation (e.g., [Practice_1.java](file:///c:/Daily%20Practice%20Repo/Day_1/Practice_1.java))
+  - [ ] String Manipulation (e.g., [Practice_1.java](file:///c:/Daily%20Practice%20Repo/Day_01/Practice_1.java))
   - [ ] Pattern Matching Algorithms (KMP, Rabin-Karp)
 - [ ] **Linked Lists**
   - [ ] Singly Linked List
@@ -92,16 +92,16 @@ graph TD
 
 ## 🚀 How to Run the Code
 
-Since this repository uses Java packages structured by day (e.g., `Day_1`), follow these commands to compile and run files from the root directory:
+Since this repository uses Java packages structured by day (e.g., `Day_01`), follow these commands to compile and run files from the root directory:
 
 ### 1. Compile a Java file
 ```bash
-javac Day_1/practical_2.java
+javac Day_01/practical_2.java
 ```
 
 ### 2. Run the compiled class
 ```bash
-java Day_1.practical_2
+java Day_01.practical_2
 ```
 
 > [!TIP]

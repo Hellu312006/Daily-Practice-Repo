@@ -1,0 +1,15 @@
+package Day_01;
+
+public class practical_006 {
+    public static void main(String[] args) {
+        int number = -20;
+         
+        if(number > 0){
+            System.out.println("posotive number");
+        }
+        else {
+            System.out.println("nagative number");
+        }
+    }
+
+}
