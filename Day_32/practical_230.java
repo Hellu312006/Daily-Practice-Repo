@@ -141,7 +141,7 @@ public class practical_230 {
         student.role();
 
         System.out.println("\n=============================================================");
-        System.out.println("Inheritance practical executed successfully!");
+        System.out.println("Practical 230 executed successfully!");
         System.out.println("=============================================================");
     }
 }
